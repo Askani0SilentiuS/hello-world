@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+Tutorial repository to liear work with github
